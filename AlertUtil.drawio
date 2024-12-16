@@ -4,16 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Oh8FK2zyh--omqNR-Jqu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.172;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;strokeWidth=3;endArrow=diamond;endFill=1;" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Oh8FK2zyh--omqNR-Jqu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=0;curved=0;" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Oh8FK2zyh--omqNR-Jqu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=0;curved=0;" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-7" edge="1">
+        <mxCell id="Oh8FK2zyh--omqNR-Jqu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.758;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=0;curved=0;exitPerimeter=0;" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="587" />
+              <mxPoint x="1040" y="620" />
               <mxPoint x="1040" y="800" />
             </Array>
           </mxGeometry>
@@ -21,8 +15,19 @@
         <mxCell id="Oh8FK2zyh--omqNR-Jqu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;curved=0;endArrow=diamond;endFill=0;" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CxrAeEMPI0pghfAGi6QI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="445" />
+              <mxPoint x="1050" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CxrAeEMPI0pghfAGi6QI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=0;curved=0;" edge="1" parent="1" source="Oh8FK2zyh--omqNR-Jqu-1" target="Oh8FK2zyh--omqNR-Jqu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oh8FK2zyh--omqNR-Jqu-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AlertUtil&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;- alertService: AlertService&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;&amp;nbsp;// Divide os avisos entre MSISDN e ICCID com condicionais nos métodos.&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ createAlertSimInvalidPhase(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimcardInvalidPhase(serviceOrder: ServiceOrder, simcard: Simcard)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimOperatorIsDifferentFromServiceOrder(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimcardOperatorIsDifferentFromServiceOrder(serviceOrder: ServiceOrder, simcard: Simcard)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimCustomerIsDifferentFromServiceOrder(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimHasNotCustomer(serviceOrder: ServiceOrder, sim: Sim: boolean isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimNotRegisteredPhase(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimsHasNotBeenTestedWith(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimNotRegistered(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimInvalidStatus(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute: boolean)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimInvalidInventory(serviceOrder: ServiceOrder, sim: Sim)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createAlertSimHasPlanGroupDifferent(serviceOrder: ServiceOrder, sim: Sim, isICCIDAttribute)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="400" width="670" height="260" as="geometry" />
+          <mxGeometry x="330" y="400" width="670" height="290" as="geometry" />
         </mxCell>
         <mxCell id="Oh8FK2zyh--omqNR-Jqu-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AlertService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;i&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;// Classe que fornece métodos que geram diferentes alertas no LSM, sem nenhuma verificação.&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1161" y="400" width="369" height="90" as="geometry" />
