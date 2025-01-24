@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Página-1" id="XTdxw468BK0kqVXerZVO">
-    <mxGraphModel>
+    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JwAX59YpjfXVhUWu2Agv-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CustomerService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- restTemplate: RestTemplate&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- headersLsm: HeaderLsm&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- wsAccessService: WSAccessService&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- filterUtil: FilterUtil&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- httpRequestUtil: HttpRequestUtil&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- mailService: MailService&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- customerLogsUnlockTrustService: CustomerLogsUnlockTrutsService&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- userService: UserService&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- organizationService: OrganizationService&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- CUSTOMERS_URL: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- CUSTOMER_TYPES_URL: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- SIZE_OF_CNPJ: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- SIZE_OF_CPF: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- quantity&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="1360" height="1070" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
