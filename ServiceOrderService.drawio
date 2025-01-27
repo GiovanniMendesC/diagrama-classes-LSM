@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Página-1" id="n3oqPN_mnhxu3oE9vwWN">
-    <mxGraphModel dx="8235" dy="4385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4706" dy="2506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,11 +32,27 @@
         <mxCell id="caFOKt3ceonZOJIybAJJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" parent="1" source="ZAlYBI2UBmGH4MSheu3d-26" target="caFOKt3ceonZOJIybAJJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GYR2pcfMHePe5P8iqUR3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" edge="1" parent="1" source="ZAlYBI2UBmGH4MSheu3d-26" target="GYR2pcfMHePe5P8iqUR3-1">
+        <mxCell id="GYR2pcfMHePe5P8iqUR3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" parent="1" source="ZAlYBI2UBmGH4MSheu3d-26" target="GYR2pcfMHePe5P8iqUR3-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2320" y="2795" />
               <mxPoint x="2320" y="1275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFKRiWqmWHrU0tK0vTOI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" edge="1" parent="1" source="ZAlYBI2UBmGH4MSheu3d-26" target="UFKRiWqmWHrU0tK0vTOI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2400" y="2795" />
+              <mxPoint x="2400" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFKRiWqmWHrU0tK0vTOI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=diamond;endFill=1;" edge="1" parent="1" source="ZAlYBI2UBmGH4MSheu3d-26" target="UFKRiWqmWHrU0tK0vTOI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2440" y="2795" />
+              <mxPoint x="2440" y="1725" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -70,8 +86,14 @@
         <mxCell id="caFOKt3ceonZOJIybAJJ-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;LineService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Classe que vai fazer algo&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;// Para mais informações, veja o diagrama de classe: &lt;a href=&quot;https://app.diagrams.net/#HGiovanniMendesC%2Fdiagrama-classes-LSM%2Fmain%2FLineService.drawio#%7B%22pageId%22%3A%22WIarTYcK9mzcMmai8Q3U%22%7D&quot;&gt;LineService.java&lt;/a&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2480" y="800" width="740" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GYR2pcfMHePe5P8iqUR3-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FilterUtil&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Filtro que fornece os métodos utilizados nos filtros&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Para mais detalhes, acesse: FilterUtil.java&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="GYR2pcfMHePe5P8iqUR3-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FilterUtil&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Filtro que fornece os métodos utilizados nos filtros&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Para mais detalhes, acesse: &lt;a href=&quot;https://app.diagrams.net/#HGiovanniMendesC%2Fdiagrama-classes-LSM%2Fmain%2FFilterUtil.drawio#%7B%22pageId%22%3A%22J70kSYUDZw5mXHnKkc5U%22%7D&quot;&gt;FilterUtil.java&lt;/a&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2480" y="1200" width="740" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UFKRiWqmWHrU0tK0vTOI-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DateUtil&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Fornece os métodos utilizados para a manipulação da data&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Para mais detalhes, acesse: DateUtil.java&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1440" width="740" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UFKRiWqmWHrU0tK0vTOI-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CustomerService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Oferece os métodos para trabalhar com a entidade Customer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;// Para mais informações, acesse: CustomerService.java&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="1640" width="739" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
